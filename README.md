@@ -1,6 +1,13 @@
-Hi there 👋
-My name is Salma, I'm a tech student learning how to code. 
+### Hi there 👋 I'm Salma!
 
-- 🌱 I’m currently learning web development   
-- 🤔 I’m looking for help with Cyber security 
-- 📫 How to reach me: salma.kobri.intern@gmail.com
+🎓 I'm a tech student learning how to code
+
+🌱 Currently learning **web development** (HTML, CSS, JavaScript)
+
+🔍 Exploring **cybersecurity** fundamentals — always open to learning more
+
+💡 Working on my second small web projects
+
+📫 How to reach me: sallycoding6@gmail.com 
+
+⭐️ Thanks for stopping by my profile!
